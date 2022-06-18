@@ -1,0 +1,31 @@
+[
+  {
+    "category": "Celana",
+    "trademark": "trademark",
+    "price": "Rp. 300.000",
+    "description": "Baju ini sangat bagus",
+    "quantity": 15,
+    "image": "https://dynamic.zacdn.com/H5CbFyNW3WBmAlegasHkdnKGZh4=/fit-in/346x500/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/hm-4579-5769643-1.jpg",
+    "id": "2"
+  },
+  {
+    "id": "3",
+    "category": "Baju",
+    "trademark": "Hush Puppies",
+    "price": "Rp. 190.000",
+    "entry_date": "2020-01-01",
+    "description": "Baju ini sangat bagus",
+    "quantity": 30,
+    "image": "https://dynamic.zacdn.com/ODpjLcR1w5q_gbxUVb3kSvYfJYM=/fit-in/346x500/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/hush-puppies-3336-8891343-3.jpg"
+  },
+  {
+    "id": "4",
+    "category": "Baju",
+    "trademark": "Quicksilver",
+    "price": "Rp. 589.000",
+    "entry_date": "2020-01-01",
+    "description": "Baju ini sangat bagus",
+    "quantity": 5,
+    "image": "https://dynamic.zacdn.com/4Uc64DWdrQP1lLRWqGYZjr--hNw=/fit-in/346x500/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/quiksilver-1561-6908043-3.jpg"
+  }
+]

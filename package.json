@@ -1,0 +1,19 @@
+{
+  "name": "gudangbaju",
+  "version": "1.0.0",
+  "description": "Rest API sederhana dengan crud",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "AzkaPrata",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {
+    "uuid": "^8.3.2"
+  }
+}
